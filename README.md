@@ -71,7 +71,7 @@ Comprehensive system monitoring for Raspberry Pi.
 - Automated system maintenance
 - Alert generation
 
-### 4. Node-RED Enhanced MCP (`node_red_mcp_enhanced.py`)
+### 4. Node-RED MCP (`node_red_mcp.py`)
 
 Integration with Node-RED for workflow automation.
 
