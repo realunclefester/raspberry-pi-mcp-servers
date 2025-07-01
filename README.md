@@ -135,7 +135,7 @@ cp .env.example .env
 # Edit .env with your database credentials
 ```
 
-4. Add to Claude configuration (`~/.claude/settings.json`):
+4. Add to Claude configuration (`~/.claude.json`):
 ```json
 {
   "mcpServers": {
