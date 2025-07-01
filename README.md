@@ -37,9 +37,9 @@ Advanced PostgreSQL interface with vector similarity search capabilities.
 - Time-series data analysis
 - Event logging and analytics
 
-### 2. Memory MCP (`memory_mcp.py`)
+### 2. pgvector Memory MCP (`pgvector_memory_mcp.py`)
 
-Persistent memory system for AI assistants using PostgreSQL and embeddings.
+Persistent memory system for AI assistants using PostgreSQL and pgvector.
 
 **Features:**
 - Store and retrieve contextual memories
