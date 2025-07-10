@@ -1,18 +1,18 @@
-# Raspberry Pi MCP Servers Collection
+# MCP Servers Collection
 
-**Production-ready MCP (Model Context Protocol) servers optimized for Raspberry Pi and AI workloads**
+**Production-ready MCP (Model Context Protocol) servers for AI-powered applications**
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![ARM64 Compatible](https://img.shields.io/badge/ARM64-compatible-green.svg)](https://www.raspberrypi.com/)
+[![Cross-platform](https://img.shields.io/badge/platform-cross--platform-green.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🚀 Overview
 
-This collection provides MCP servers specifically designed for AI-powered systems running on Raspberry Pi. These servers enable Claude and other AI assistants to interact with system resources, databases, and external services through a standardized protocol.
+This collection provides MCP servers designed for AI-powered systems and applications. These servers enable Claude and other AI assistants to interact with system resources, databases, and external services through a standardized protocol.
 
 ### Key Features
 
-- **ARM Optimized**: Designed for efficient operation on Raspberry Pi hardware
+- **Cross-platform**: Works on Linux, macOS, and Windows
 - **Production Ready**: Used in 24/7 autonomous AI systems
 - **PostgreSQL + pgvector**: Advanced vector storage for AI memory
 - **System Monitoring**: Real-time resource tracking
